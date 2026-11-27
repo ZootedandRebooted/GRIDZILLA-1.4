@@ -1,0 +1,4 @@
+Roboto Mono
+Copyright 2015 The Roboto Mono Project Authors (https://github.com/google/robotomono)
+
+Bounded UI glyph rasters derived from the Roboto Mono font embedded in the supported native MPC executable. Font name records specify Apache License, Version 2.0. Original font artwork and metrics retained.
