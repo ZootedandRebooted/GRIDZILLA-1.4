@@ -1,4 +1,10 @@
-# GRIDZILLA 1.4
+# GRIDZILLA — FIRMWARE 1.4
+
+## 🟢 [DOWNLOAD GRIDZILLA FOR FIRMWARE 1.4](https://github.com/ZootedandRebooted/GRIDZILLA-1.4/releases/download/v1.4.0/GRIDZILLA-1.4.zip)
+
+> [!TIP]
+> **Firmware 1.4 is ready.** The download includes the automatic-startup installer and all nine Henry Skillz effects.
+> [Open the 1.4 repository](https://github.com/ZootedandRebooted/GRIDZILLA-1.4) · [Read the 1.4 installation guide](https://github.com/ZootedandRebooted/GRIDZILLA-1.4/blob/main/INSTALLATION.md)
 
 ![GRIDZILLA](gridzilla-logo.png)
 
